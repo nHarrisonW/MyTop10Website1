@@ -1,4 +1,16 @@
 
+.background{
+    background-color: black;
+}
+
+.headingcontainer{
+    /* font-size: 40pt; */
+    color: white;
+    text-align: center;
+    position: relative; top:12em
+    
+}
+
 .carousel-item {
     background-size: cover;
   height: 110vh;

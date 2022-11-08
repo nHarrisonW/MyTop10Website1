@@ -11,6 +11,16 @@
     
 }
 
+
+.carousel2 {
+    width:40em;
+    height:10em;
+    margin: auto;
+    position: relative; top:18em
+}
+
+
+
 .carousel-item {
     background-size: cover;
   height: 110vh;

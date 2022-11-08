@@ -65,10 +65,10 @@ background-size: cover;
     background-image: url(../AssetsForF1/Assets/RedBullInAustria.jpeg);
 }
 #RedBullView {
-    background-image: url(../AssetsForF1/Assets/AustriaOverview.jpg);
+    background-image: url(../AssetsForF1/Assets/RedBullView.jpeg);
 }
 #SpaClassic {
-    background-image: url(../AssetsForF1/Assets/SpaClassic.jpg);
+    background-image: url(../AssetsForF1/Assets/SpaOldSchool.webp);
 }
 #SpaLayout {
     background-image: url(../AssetsForF1/Assets/SpaLayout.jpg);
@@ -86,7 +86,11 @@ background-size: cover;
     background-image: url(../AssetsForF1/Assets/MonzaPoster.jpg);
 }
 #SuzukaLayout {
+    background-repeat: no-repeat;
     background-image: url(../AssetsForF1/Assets/SuzukaLayout.jpg);
+    background-size: contain;
+    background-position: center;
+
 }
 #SuzukaProstSennaFirst {
     background-image: url(../AssetsForF1/Assets/SuzukaProstSennaFirst.jpg);

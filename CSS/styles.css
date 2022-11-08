@@ -1,10 +1,12 @@
 
-
-
 .carousel-item {
     background-size: cover;
   height: 110vh;
   display: relative;
+}
+
+#MonacoPic {
+    background-image: url(../AssetsForF1/Assets/monacoPic.jpg);
 }
 
 #JeddahNight {
@@ -42,5 +44,68 @@ background-size: cover;
 }
 #SilverstonePoster {
     background-image: url(../AssetsForF1/Assets/SilverstonePoster.jpg);
-    background-size: cover;
+    background-size: contain;
+}
+#RedBullStatue {
+    background-image: url(../AssetsForF1/Assets/RedBullStatue.jpg);
+}
+#RedBullFans {
+    background-image: url(../AssetsForF1/Assets/RedBullInAustria.jpeg);
+}
+#RedBullView {
+    background-image: url(../AssetsForF1/Assets/AustriaOverview.jpg);
+}
+#SpaClassic {
+    background-image: url(../AssetsForF1/Assets/SpaClassic.jpg);
+}
+#SpaLayout {
+    background-image: url(../AssetsForF1/Assets/SpaLayout.jpg);
+}
+#SpaSpeed {
+    background-image: url(../AssetsForF1/Assets/SpaSpeed.jpeg);
+}
+#MonzaCheering {
+    background-image: url(../AssetsForF1/Assets/MonzaCheering.jpg);
+}
+#MonzaFerrari {
+    background-image: url(../AssetsForF1/Assets/MonzaFerarri.jpg);
+}
+#MonzaPoster {
+    background-image: url(../AssetsForF1/Assets/MonzaPoster.jpg);
+}
+#SuzukaLayout {
+    background-image: url(../AssetsForF1/Assets/SuzukaLayout.jpg);
+}
+#SuzukaProstSennaFirst {
+    background-image: url(../AssetsForF1/Assets/SuzukaProstSennaFirst.jpg);
+}
+#SuzukaProstSenna {
+    background-image: url(../AssetsForF1/Assets/SuzukaProstSenna.jpg);
+}
+#YasMarinaCelebration {
+    background-image: url(../AssetsForF1/Assets/YasMarinaCelebration.webp);
+}
+#YasMarinaVerstappen {
+    background-image: url(../AssetsForF1/Assets/YasMarinaVerstappen.jpg);
+}
+#YasMarinaMerc {
+    background-image: url(../AssetsForF1/Assets/YasMariaMerc.jpg);
+}
+#NurburgringPoster {
+    background-image: url(../AssetsForF1/Assets/NurburgringPoster.webp);
+}
+#NurburgringShumacher {
+    background-image: url(../AssetsForF1/Assets/NurburgringShumacher.jpg);
+}
+#NurburgringFerarri {
+    background-image: url(../AssetsForF1/Assets/NurburgringFerarri.jpg);
+}
+#BakuCastle {
+    background-image: url(../AssetsForF1/Assets/BakuCastle.jpg);
+}
+#BakuView {
+    background-image: url(../AssetsForF1/Assets/bakuView.jpg);
+}
+#BakuLayout {
+    background-image: url(../AssetsForF1/Assets/bakuLayout.webp);
 }

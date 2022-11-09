@@ -260,3 +260,17 @@
     background-size: contain;
     background-position: center;
 }
+#MonacoFerarri {
+    background-image: url(../AssetsForF1/Assets/monacoPic.jpg);
+    /* display: flex; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* background-position: center; */
+    width: fit-content;
+    background-size: contain;
+    height: 700px;
+    
+}
+.lucky {
+    position: relative;
+}

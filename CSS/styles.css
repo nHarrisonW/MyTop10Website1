@@ -3,11 +3,15 @@
     background-color: black;
 }
 
+.background2{
+    background-color: #ffefff;
+}
+
 .headingcontainer{
-    /* font-size: ; */
+    font-size: 7em;
     color: white;
     text-align: center;
-    position: relative; top:12em
+    position: relative; top:2em
     
 }
 .titleText {
@@ -19,6 +23,23 @@
     text-align: center;
 }
 
+.title2 > h1 {
+    background-color: #eafff4;
+    font-size: 7em;
+    color: black ;
+    text-align: center;
+    position: relative; top:0.1em
+    
+}
+
+.title2 > p{
+    color: black;
+    font-size: 4em;
+    text-align: center;
+    position: relative; top: 10em;
+}
+
+
 
 
 .carousel2 {
@@ -26,6 +47,13 @@
     height:10em;
     margin: auto;
     position: relative; top:18em
+}
+
+.carousel3 {
+    width:50em;
+    height:10em;
+    margin: auto;
+    position: relative; top:28em
 }
 
 

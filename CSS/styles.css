@@ -4,7 +4,7 @@
 }
 
 .headingcontainer{
-    /* font-size: 40pt; */
+    /* font-size: ; */
     color: white;
     text-align: center;
     position: relative; top:12em
@@ -13,7 +13,7 @@
 
 
 .carousel2 {
-    width:40em;
+    width:50em;
     height:10em;
     margin: auto;
     position: relative; top:18em

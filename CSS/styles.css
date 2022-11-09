@@ -20,6 +20,7 @@
 }
 
 
+
 .carousel2 {
     width:50em;
     height:10em;
@@ -33,6 +34,9 @@
     background-size: cover;
   height: 110vh;
   display: relative;
+}
+#blkItemText {
+    color: black;
 }
 
 #MonacoPic {
@@ -97,7 +101,7 @@
     background-position: center;
 }
 #RedBullStatue {
-    background-image: url(../AssetsForF1/Assets/RedBullStatue.jpg);
+    background-image: url(../AssetsForF1/Assets/RedBullBigStatue.jpeg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -109,7 +113,7 @@
     background-position: center;
 }
 #RedBullView {
-    background-image: url(../AssetsForF1/Assets/RedBullView.jpeg);
+    background-image: url(../AssetsForF1/Assets/RedBullPretty.avif);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -157,13 +161,13 @@
     background-position: center;
 
 }
-#SuzukaProstSennaFirst {
+#SuzukaProstSenna {
     background-image: url(../AssetsForF1/Assets/SuzukaCollision.webp);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
 }
-#SuzukaProstSenna {
+#SuzukaProstSennaFirst {
     background-image: url(../AssetsForF1/Assets/SuzukaProstSenna.jpg);
     background-repeat: no-repeat;
     background-size: contain;

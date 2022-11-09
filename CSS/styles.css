@@ -22,6 +22,11 @@
     color: white;
     text-align: center;
 }
+#GreyBG {
+    background-color: rgba(0, 0, 0, 0.377);
+    padding: 5px;
+    /* for text backgrounds transparent grey */
+}
 
 .title2 > h1 {
     background-color: #eafff4;
@@ -104,8 +109,8 @@
     background-size: contain;
     background-position: center;
 }
-#ImolaVerstappen {
-    background-image: url(../AssetsForF1/Assets/ImolaBattle.jpeg);
+#ImolaRain {
+    background-image: url(../AssetsForF1/Assets/ImolaGoodQualy.jpeg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -250,7 +255,7 @@
     background-position: center;
 }
 #BakuLayout {
-    background-image: url(../AssetsForF1/Assets/bakuLayout.webp);
+    background-image: url(../AssetsForF1/Assets/BakuGoodPoster.jpeg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;

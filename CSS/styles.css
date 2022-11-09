@@ -14,6 +14,14 @@
     position: relative; top:2em
     
 }
+.titleText {
+    color: white;
+    text-align: center;
+}
+.itemText {
+    color: white;
+    text-align: center;
+}
 
 .title2 > h1 {
     background-color: #eafff4;
@@ -57,71 +65,118 @@
 
 #MonacoPic {
     background-image: url(../AssetsForF1/Assets/monacoPic.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
 #JeddahNight {
     background-image: url(../AssetsForF1/Assets/jeddahNightTime.jpg);
-    background-size: cover;
-    display: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #JeddahSparks {
     background-image: url(../AssetsForF1/Assets/JeddahSparks.jpg);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #JeddahLatifi {
     background-image: url(../AssetsForF1/Assets/JeddahLatifi.jpg);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #ImolaSenna {
-background-image: url(../AssetsForF1/Assets/ImolaSenna.jpg);
-background-size: cover;
+    background-image: url(../AssetsForF1/Assets/ImolaSenna.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #ImolaLayout {
-    background-image: url(../AssetsForF1/Assets/imolaLayout.jpg);
-    background-size: cover;
+    background-image: url(../AssetsForF1/Assets/ImolaTrackMap.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #ImolaVerstappen {
-    background-image: url(../AssetsForF1/Assets/imolaVerstappen.jpg);
-    background-size: cover;
+    background-image: url(../AssetsForF1/Assets/ImolaBattle.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #SilverstoneFans {
     background-image: url(../AssetsForF1/Assets/SilverstoneFans.jpg);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #SilverstoneLewisHam {
     background-image: url(../AssetsForF1/Assets/SilverstoneLewisHam.jpg);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #SilverstonePoster {
     background-image: url(../AssetsForF1/Assets/SilverstonePoster.jpg);
+    background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 #RedBullStatue {
     background-image: url(../AssetsForF1/Assets/RedBullStatue.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #RedBullFans {
     background-image: url(../AssetsForF1/Assets/RedBullInAustria.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #RedBullView {
     background-image: url(../AssetsForF1/Assets/RedBullView.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #SpaClassic {
     background-image: url(../AssetsForF1/Assets/SpaOldSchool.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #SpaLayout {
     background-image: url(../AssetsForF1/Assets/SpaLayout.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #SpaSpeed {
     background-image: url(../AssetsForF1/Assets/SpaSpeed.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #MonzaCheering {
     background-image: url(../AssetsForF1/Assets/MonzaCheering.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #MonzaFerrari {
     background-image: url(../AssetsForF1/Assets/MonzaFerarri.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #MonzaPoster {
     background-image: url(../AssetsForF1/Assets/MonzaPoster.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #SuzukaLayout {
     background-repeat: no-repeat;
@@ -132,9 +187,15 @@ background-size: cover;
 }
 #SuzukaProstSennaFirst {
     background-image: url(../AssetsForF1/Assets/SuzukaCollision.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #SuzukaProstSenna {
     background-image: url(../AssetsForF1/Assets/SuzukaProstSenna.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #YasMarinaCelebration {
     background-image: url(../AssetsForF1/Assets/YasMarinaHighQual.jpg);
@@ -156,19 +217,37 @@ background-size: cover;
 }
 #NurburgringPoster {
     background-image: url(../AssetsForF1/Assets/NurburgringPoster.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #NurburgringShumacher {
     background-image: url(../AssetsForF1/Assets/NurburgringShumacher.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #NurburgringFerarri {
     background-image: url(../AssetsForF1/Assets/NurburgringFerarri.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #BakuCastle {
     background-image: url(../AssetsForF1/Assets/BakuCastle.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #BakuView {
     background-image: url(../AssetsForF1/Assets/bakuView.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #BakuLayout {
     background-image: url(../AssetsForF1/Assets/bakuLayout.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }

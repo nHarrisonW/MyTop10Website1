@@ -28,7 +28,7 @@
     font-size: 7em;
     color: black ;
     text-align: center;
-    position: relative; top:0.1em
+    position: relative; top: -10em
     
 }
 
@@ -36,11 +36,15 @@
     color: black;
     font-size: 4em;
     text-align: center;
-    position: relative; top: 10em;
+    position: relative; top: -5em
 }
 
-
-
+.pictureanime{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:100em;
+}
 
 .carousel2 {
     width:50em;
@@ -53,7 +57,14 @@
     width:50em;
     height:10em;
     margin: auto;
-    position: relative; top:28em
+    position: relative; top:30em
+}
+
+.carousel4{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:12em 
 }
 
 

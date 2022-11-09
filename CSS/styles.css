@@ -103,19 +103,28 @@ background-size: cover;
 
 }
 #SuzukaProstSennaFirst {
-    background-image: url(../AssetsForF1/Assets/SuzukaProstSennaFirst.jpg);
+    background-image: url(../AssetsForF1/Assets/SuzukaCollision.webp);
 }
 #SuzukaProstSenna {
     background-image: url(../AssetsForF1/Assets/SuzukaProstSenna.jpg);
 }
 #YasMarinaCelebration {
-    background-image: url(../AssetsForF1/Assets/YasMarinaCelebration.webp);
+    background-image: url(../AssetsForF1/Assets/YasMarinaHighQual.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #YasMarinaVerstappen {
-    background-image: url(../AssetsForF1/Assets/YasMarinaVerstappen.jpg);
+    background-image: url(../AssetsForF1/Assets/YasMarinaNewVerstappen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 #YasMarinaMerc {
-    background-image: url(../AssetsForF1/Assets/YasMariaMerc.jpg);
+    background-image: url(../AssetsForF1/Assets/YasMarinaCoolerMercedes.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 #NurburgringPoster {
     background-image: url(../AssetsForF1/Assets/NurburgringPoster.webp);

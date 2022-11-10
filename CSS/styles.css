@@ -39,16 +39,72 @@
 
 .title2 > p{
     color: black;
-    font-size: 4em;
+    font-size: 3em;
     text-align: center;
-    position: relative; top: -5em
+    position: relative; top: 1em
 }
 
 .pictureanime{
     display: block;
     margin-left: 3em;
     width: 50%;
-    position: relative; top:100em;
+    position: relative; top:100em
+}
+.pictureanime1{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:90em
+}
+
+
+.pictureanime2{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:100em
+}
+
+.pictureanime3{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:110em
+}
+
+.pictureanime4{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:120em
+}
+
+.pictureanime5{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:130em
+}
+
+.pictureanime6{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:140em
+}
+
+.pictureanime7{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:150em
+}
+
+.pictureanime8{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:160em
 }
 
 .carousel2 {
@@ -59,7 +115,7 @@
 }
 
 .carousel3 {
-    width:50em;
+    width:100em;
     height:10em;
     margin: auto;
     position: relative; top:30em
@@ -69,9 +125,64 @@
     width:100em;
     height:10em;
     margin-left: 60em;
-    position: relative; top:12em 
+    position: relative; top:20em 
 }
 
+.carousel5{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:30em 
+}
+
+.carousel6{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:40em 
+}
+
+.carousel7{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:50em 
+}
+
+.carousel8{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:60em 
+}
+
+.carousel9{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:70em 
+}
+
+.carousel10{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:80em 
+}
+
+.carousel11{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:90em 
+}
+
+.carousel12{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:100em 
+}
 
 
 .carousel-item {

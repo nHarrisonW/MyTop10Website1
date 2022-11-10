@@ -1,3 +1,73 @@
+.anime1{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 17em;
+}
+
+.anime2{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 20em;
+}
+
+.anime3{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 23em;
+}
+
+
+.anime4{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 26em;
+}
+
+.anime5{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 29em;
+}
+
+.anime6{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 32em;
+}
+
+.anime7{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 35em;
+}
+
+.anime8{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 38em;
+}
+
+.anime9{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 41em;
+}
+
+.anime10{
+    font-size: 4em;
+    margin-left: 10em;
+    text-align: center;
+    position: relative; top: 44em;
+}
 
 .background{
     background-color: black;
@@ -107,6 +177,13 @@
     position: relative; top:160em
 }
 
+.pictureanime9{
+    display: block;
+    margin-left: 3em;
+    width: 50%;
+    position: relative; top:170em
+}
+
 .carousel2 {
     width:50em;
     height:10em;
@@ -182,6 +259,13 @@
     height:10em;
     margin-left: 60em;
     position: relative; top:100em 
+}
+
+.carousel13{
+    width:100em;
+    height:10em;
+    margin-left: 60em;
+    position: relative; top:110em 
 }
 
 

@@ -1,3 +1,4 @@
+
 .anime1{
     font-size: 4em;
     margin-left: 2em;
@@ -100,23 +101,20 @@
 
 .headingcontainer{
     font-size: 7em;
-    color: white;
+    color: oldlace;
     text-align: center;
     position: relative; top:2em
     
 }
 .titleText {
-    color: white;
+    color: oldlace;
     text-align: center;
 }
 .itemText {
-    color: white;
+    color: oldlace;
     text-align: center;
-}
-#GreyBG {
-    background-color: rgba(0, 0, 0, 0.377);
-    padding: 5px;
-    /* for text backgrounds transparent grey */
+    /* font-family: 'Xanh Mono', monospace; */
+    font-family: 'Racing Sans One', monospace;
 }
 
 .title2 > h1 {
@@ -372,8 +370,8 @@
 
 .carousel-item {
     background-size: cover;
-  height: 110vh;
-  display: relative;
+    height: 110vh;
+    display: relative;
 }
 #blkItemText {
     color: black;
@@ -384,6 +382,12 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+    height: 100vh;
+}
+#MonacoVid {
+    background-size: cover;
+    display: flex;
+    justify-content: center;
 }
 
 #JeddahNight {
@@ -499,7 +503,7 @@
     background-image: url(../AssetsForF1/Assets/SuzukaLayout.jpg);
     background-size: contain;
     background-position: center;
-
+    
 }
 #SuzukaProstSenna {
     background-image: url(../AssetsForF1/Assets/SuzukaCollision.webp);
@@ -580,4 +584,18 @@
 }
 .lucky {
     position: relative;
+}
+#CaptionsOnPics {
+    color: oldlace;
+    font-family: 'Racing Sans One', monospace;
+}
+#GreyBG {
+    background-color: rgba(0, 0, 0, 0.377);
+    padding: 5px;
+    font-family: 'Racing Sans One', monospace;
+    color: oldlace;
+    /* for text backgrounds transparent grey */
+}
+#FastText {
+    font-family: 'Faster One', cursive;    
 }
